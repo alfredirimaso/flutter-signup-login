@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689859184241",
+    "project_id": "mothers-app",
+    "storage_bucket": "mothers-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689859184241:android:4e583c132b7591e71cfdd0",
+        "android_client_info": {
+          "package_name": "com.example.maternal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689859184241-en4ec4j2qpomqrt6fasn9mh2brfr0u3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFfsd9JU40E-HA_XG2iWsbYYN4YxYHm3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689859184241-en4ec4j2qpomqrt6fasn9mh2brfr0u3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
